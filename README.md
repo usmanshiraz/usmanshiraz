@@ -2,7 +2,7 @@
 
 🚀 **SEO Executive | Digital Marketing Specialist | Team Lead**  
 📍 Lahore, Pakistan  
-✉️ usmanshiraz36@gmail.com | 📱 0321-4006277  
+✉️ usmanshiraz36@gmail.com
 
 ---
 
@@ -75,7 +75,7 @@ _Rozee.pk – Lahore, Pakistan (Jun 2017 – Mar 2019)_
 ---
 
 ## 📊 GitHub Stats  
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanshiraz&show_icons=true&theme=tokyonight)  
 
 ---
 
