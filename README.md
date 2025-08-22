@@ -80,4 +80,4 @@ _Rozee.pk – Lahore, Pakistan (Jun 2017 – Mar 2019)_
 ---
 
 ## 🔹 Connect with Me  
-🌐 [LinkedIn](#) | 🐦 [Twitter](#) | 📧 usmanshiraz36@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/usman-shiraz/) | 📧 usmanshiraz36@gmail.com  
